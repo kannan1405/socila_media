@@ -8,7 +8,7 @@ The application is designed to be scalable and performant, with caching mechanis
 The SRS document outlines the functional and non-functional requirements for the social media web application, including user stories, use cases, data models, and system architecture. The document serves as a guide for the development team, providing a clear understanding of the scope and expectations for the project.
 
 TEAM MEMBER:
-THULASI RAM
-KANNAN
-DILAN
-BALAJI
+THULASI RAM ;
+KANNAN;
+DILAN;
+BALAJI;
